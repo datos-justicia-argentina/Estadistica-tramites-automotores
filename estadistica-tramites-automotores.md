@@ -1,5 +1,5 @@
-stadística de Trámites de Automotores, Motovehículos y Maquinarias
-==================================================================================
+Estadística de Trámites de Automotores
+=====================================
 
 En este conjunto de datos se detalla la cantidad de automotores 0km inscriptos y automotores transferidos, discriminados por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Se consideran automotores: automóviles, camiones, inclusive los llamados tractores para semirremolque, camionetas, rurales, jeeps, furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aún cuando no estuvieran carrozados.
 
