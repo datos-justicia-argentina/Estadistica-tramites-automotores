@@ -20,9 +20,9 @@ En este cuerpo de datos se detalla la cantidad de automotores 0km inscriptos y a
 Recursos disponibles
 --------------------
 
-### Estadística de Inscripciones Iniciales de Automotores
+### Estadística de Inscripciones Iniciales de Automotores AAAA-MM
 
--   **Nombre del archivo:** estadistica-inscripciones-iniciales-autos.csv
+-   **Nombre del archivo:** estadistica-inscripciones-iniciales-autos AAAA-MM.csv
 
 -   **Descripción del contenido:** cantidad de autos 0km inscriptos, por año, mes y provincia
 
@@ -44,9 +44,9 @@ Recursos disponibles
 
 -   **cantidad_inscripciones_iniciales (int):** cantidad de vehículos inscriptos
 
-### Estadística de transferencias de Automotores
+### Estadística de transferencias de Automotores AAAA-MM
 
--   **Nombre del archivo:** estadistica-transferencias-autos.csv
+-   **Nombre del archivo:** estadistica-transferencias-autos AAAA-MM.csv
 
 -   **Descripción del contenido:** cantidad de autos transferidos, por año, mes y provincia
 
