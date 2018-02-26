@@ -52,7 +52,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** estadistica-transferencias-autos AAAA-MM.csv
 
--   **Descripción del contenido:** cantidad de autos transferidos, por año, mes y provincia
+-   **Descripción del contenido:** se detalla la cantidad de autos transferidos, por año, mes y provincia
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
