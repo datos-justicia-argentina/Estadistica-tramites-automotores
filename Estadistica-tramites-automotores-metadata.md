@@ -28,7 +28,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** estadistica-inscripciones-iniciales-autos AAAA-MM.csv
 
--   **Descripción del contenido:** cantidad de autos 0km inscriptos, por año, mes y provincia
+-   **Descripción del contenido:** se detalla la cantidad de autos 0km inscriptos, por año, mes y provincia
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
