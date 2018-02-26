@@ -5,6 +5,8 @@ En este cuerpo de datos se detalla la cantidad de automotores 0km inscriptos y a
 
 http://datos.jus.gob.ar/dataset/estadistica-de-tramites-de-automotores
 
+Características
+---------------
 -   **Fecha de Primera Publicación:** 12/07/2016
 
 -   **Tags o Etiquetas:** inscripciones iniciales, transferencias, automotores, registración
