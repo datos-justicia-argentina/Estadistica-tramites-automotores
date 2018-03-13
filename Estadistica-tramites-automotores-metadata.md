@@ -32,7 +32,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** Inscripciones desde el año 2000 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** inscripciones de automotores desde el año 2000 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -56,7 +56,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** transferencias desde el año 2000 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** transferencias de automotores desde el año 2000 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
