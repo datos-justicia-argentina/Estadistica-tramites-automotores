@@ -48,7 +48,7 @@ Recursos disponibles
 
 -   **cantidad_inscripciones_iniciales (int):** cantidad de vehículos inscriptos
 
--	  **provincia_indec_id (date):** código de provincia a la cual pertenece el juzgado interviniente, según la codificación de provincia implementada por INDEC
+-	  **provincia_indec_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC
 
 ### Estadística de transferencias de Automotores AAAA-MM
 
@@ -75,7 +75,7 @@ Recursos disponibles
 
 -   **cantidad_transferencias (int):** cantidad de vehículos transferidos
 
--	  **provincia_indec_id (date):** código de provincia a la cual pertenece el juzgado interviniente, según la codificación de provincia implementada por INDEC
+-	  **provincia_indec_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC
 
 
 ### Estadística de inscripciones iniciales de automotores - AAAA
