@@ -60,8 +60,6 @@ Recursos disponibles
 
 -   **Rango temporal:** transferencias de automotores desde el año 2000 hasta la fecha consignada como "Datos actualizados al"
 
--	  **provincia_indec_id (date):** código de provincia a la cual pertenece el juzgado interviniente, según la codificación de provincia implementada por INDEC
-
 
 ### Campos del recurso
 
@@ -76,6 +74,9 @@ Recursos disponibles
 -   **letra_provincia_transferencia (string):** letra asociada a cada provincia
 
 -   **cantidad_transferencias (int):** cantidad de vehículos transferidos
+
+-	  **provincia_indec_id (date):** código de provincia a la cual pertenece el juzgado interviniente, según la codificación de provincia implementada por INDEC
+
 
 ### Estadística de inscripciones iniciales de automotores - AAAA
 
