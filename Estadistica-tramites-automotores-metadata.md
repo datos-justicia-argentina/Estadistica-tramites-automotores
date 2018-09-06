@@ -48,6 +48,8 @@ Recursos disponibles
 
 -   **cantidad_inscripciones_iniciales (int):** cantidad de vehículos inscriptos
 
+-	  **provincia_indec_id (date):** código de provincia a la cual pertenece el juzgado interviniente, según la codificación de provincia implementada por INDEC
+
 ### Estadística de transferencias de Automotores AAAA-MM
 
 -   **Nombre del archivo:** estadistica-transferencias-autos AAAA-MM.csv
@@ -57,6 +59,9 @@ Recursos disponibles
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** transferencias de automotores desde el año 2000 hasta la fecha consignada como "Datos actualizados al"
+
+-	  **provincia_indec_id (date):** código de provincia a la cual pertenece el juzgado interviniente, según la codificación de provincia implementada por INDEC
+
 
 ### Campos del recurso
 
