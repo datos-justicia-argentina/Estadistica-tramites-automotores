@@ -28,7 +28,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** estadistica-inscripciones-iniciales-autos-AAAAMM.csv
 
--   **Descripción del contenido:** se detalla la cantidad de autos 0km inscriptos, por año, mes y provincia
+-   **Descripción del contenido:** estadística de inscripciones iniciales de automotores, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde enero de 2000
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -54,7 +54,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** estadistica-transferencias-autos-AAAAMM.csv
 
--   **Descripción del contenido:** se detalla la cantidad de autos transferidos, por año, mes y provincia
+-   **Descripción del contenido:** estadística de transferencias de automotores, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde enero de 2000
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -82,15 +82,7 @@ Recursos disponibles
 
 -   **Nombre:** estadistica-inscripciones-iniciales-automotores-AAAA.zip
 
--   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
-
--   **Formato:** ZIP
-
-### Estadística de transferencias de automotores - AAAA
-
--   **Nombre:** estadistica-transferencias-automotores-AAAA.zip
-
--   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos de estadísticas de inscripciones iniciales y transferencias de automotores publicados en el portal datos.jus.gob.ar durante dicho año
 
 -   **Formato:** ZIP
 
