@@ -24,9 +24,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de Inscripciones Iniciales de Automotores - AAAA
+### Estadística de inscripciones iniciales de automotores - AAAAMM
 
--   **Nombre del archivo:** estadistica-inscripciones-iniciales-autos-AAAA.csv
+-   **Nombre del archivo:** estadistica-inscripciones-iniciales-automotores-AAAA.csv
 
 -   **Descripción del contenido:** estadística de inscripciones iniciales de automotores, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde enero de 2000
 
@@ -50,9 +50,9 @@ Recursos disponibles
 
 -   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
-### Estadística de transferencias de Automotores - AAAA
+### Estadística de transferencias de automotores - AAAAMM
 
--   **Nombre del archivo:** estadistica-transferencias-autos-AAAA.csv
+-   **Nombre del archivo:** estadistica-transferencias-automotores-AAAA.csv
 
 -   **Descripción del contenido:** estadística de transferencias de automotores, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde enero de 2000
 
