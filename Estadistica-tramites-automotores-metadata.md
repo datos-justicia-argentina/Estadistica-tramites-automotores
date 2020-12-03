@@ -82,7 +82,7 @@ Recursos disponibles
 
 -   **Nombre:** estadistica-tramites-automotores.zip
 
--   **Descripción del contenido:** archivo comprimido que contiene las estadísticas de inscripciones iniciales y transferencias de automotores desde enero del año 2000 a la fecha. 
+-   **Descripción del contenido:** archivo comprimido que contiene las estadísticas de inscripciones iniciales y transferencias de automotores desde enero del año 2000 hasta la fecha. 
 
 -   **Formato:** ZIP
 
