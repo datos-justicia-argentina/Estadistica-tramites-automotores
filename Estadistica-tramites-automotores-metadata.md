@@ -28,7 +28,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** estadistica-inscripciones-iniciales-automotores-AAAA-MM-AAAA-MM.csv
 
--   **Descripción del contenido:** Estadística de inscripciones iniciales de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.
+-   **Descripción del contenido:** estadística de inscripciones iniciales de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -54,7 +54,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** estadistica-transferencias-automotores-AAAA-MM-AAAA-MM.csv
 
--   **Descripción del contenido:** Estadística de transferencias de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.
+-   **Descripción del contenido:** estadística de transferencias de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -82,7 +82,7 @@ Recursos disponibles
 
 -   **Nombre:** estadistica-tramites-automotores.zip
 
--   **Descripción del contenido:** Archivo comprimido que contiene las estadísticas de inscripciones iniciales y transferencias de automotores desde enero del año 2000 hasta la fecha
+-   **Descripción del contenido:** archivo comprimido que contiene las estadísticas de inscripciones iniciales y transferencias de automotores desde enero del año 2000 hasta la fecha
 
 -   **Formato:** ZIP
 
