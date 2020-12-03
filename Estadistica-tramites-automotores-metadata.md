@@ -24,11 +24,11 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de inscripciones iniciales de automotores - AAAAMM
+### Estadística de inscripciones iniciales de automotores - AAAAMM - AAAAMM
 
--   **Nombre del archivo:** estadistica-inscripciones-iniciales-automotores-AAAA.csv
+-   **Nombre del archivo:** estadistica-inscripciones-iniciales-automotores-AAAA-MM-AAAA-MM.csv
 
--   **Descripción del contenido:** estadística de inscripciones iniciales de automotores, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde enero de 2000
+-   **Descripción del contenido:** Estadística de inscripciones iniciales de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -50,11 +50,11 @@ Recursos disponibles
 
 -   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
-### Estadística de transferencias de automotores - AAAAMM
+### Estadística de transferencias de automotores - AAAAMM - AAAA;;
 
--   **Nombre del archivo:** estadistica-transferencias-automotores-AAAA.csv
+-   **Nombre del archivo:** estadistica-transferencias-automotores-AAAA-MM-AAAA-MM.csv
 
--   **Descripción del contenido:** estadística de transferencias de automotores, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde enero de 2000
+-   **Descripción del contenido:** Estadística de transferencias de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -78,11 +78,11 @@ Recursos disponibles
 -   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
 
-### Estadística de tramites de automotores - AAAA
+### Estadística de tramites de automotores
 
--   **Nombre:** estadistica-tramites-automotores-AAAA.zip
+-   **Nombre:** estadistica-tramites-automotores.zip
 
--   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos de estadísticas de inscripciones iniciales y transferencias de automotores publicados en el portal datos.jus.gob.ar durante dicho año
+-   **Descripción del contenido:** Archivo comprimido que contiene las estadísticas de inscripciones iniciales y transferencias de automotores desde enero del año 2000 hasta la fecha
 
 -   **Formato:** ZIP
 
