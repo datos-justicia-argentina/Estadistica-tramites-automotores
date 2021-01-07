@@ -48,13 +48,13 @@ Recursos disponibles
 
 -   **cantidad_inscripciones_iniciales (int):** cantidad de vehículos inscriptos
 
--   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
+-   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC
 
 ### Estadística de transferencias de automotores - AAAAMM - AAAAMM
 
 -   **Nombre del archivo:** estadistica-transferencias-automotores-AAAA-MM-AAAA-MM.csv
 
--   **Descripción del contenido:** estadística de transferencias de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.
+-   **Descripción del contenido:** estadística de inscripciones iniciales de automotores por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -75,14 +75,14 @@ Recursos disponibles
 
 -   **cantidad_transferencias (int):** cantidad de vehículos transferidos
 
--   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
+-   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC
 
 
 ### Estadística de tramites de automotores
 
 -   **Nombre:** estadistica-tramites-automotores.zip
 
--   **Descripción del contenido:** archivo comprimido que contiene las estadísticas de inscripciones iniciales y transferencias de automotores desde MM-AAAAA hasta MM-AAAA. 
+-   **Descripción del contenido:** archivo comprimido que contiene las estadísticas de inscripciones iniciales y transferencias de automotores desde 01-2000. 
 
 -   **Formato:** ZIP
 
